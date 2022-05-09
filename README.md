@@ -7,3 +7,4 @@
 - Perl
 - PHP
 - C#
+- Artist who loves the opprotunity to bring my passions together
