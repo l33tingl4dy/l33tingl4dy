@@ -1,8 +1,8 @@
 # Amanda Harris
 - Also known as LeetingLady
-- Grew my career as a front-end developer, focusing on user experience
+- Web developer
 - Accessibility advocate
-- Learning back-end
+- Scrum Master
 - Javascript/Typescript
 - Java
 - Perl
